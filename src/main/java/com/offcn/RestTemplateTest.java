@@ -17,6 +17,7 @@ public class RestTemplateTest {
 		
 		
 		
+		
 		//·¢³ögetÇëÇó
 		User u1 = rt.getForObject(url+"/get/a999", User.class);
 		//System.out.println(u1);
